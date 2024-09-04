@@ -1,0 +1,91 @@
+
+body {
+    background-color: plum ;
+}
+
+.voltar {
+    font-size: 50px;
+}
+
+.cardapio {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 50px;
+    border: 10px solid palevioletred;
+    margin-bottom: 30px;
+    gap:50px;
+}
+
+.cobertura {
+    list-style-type: square;
+    background-color: palevioletred;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.massa {
+    list-style-type: square;
+    background-color: palevioletred;
+    font-size: 30px;
+    padding: 20px;
+
+}
+
+.copo {
+    list-style-type: square;
+    background-color: palevioletred;
+    font-size: 30px;
+    padding: 20px;
+}
+ 
+.tittle { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+    margin-bottom: 5px;
+    gap: 20px;
+}
+
+.tittle img { 
+    width: 180px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.tittle h1 {
+    font-size: 80px;
+    font-family: Nerko One;
+    color: palevioletred;
+}
+
+.tittle p {
+    font-size: 30px;
+    margin: 2px;
+    color: palevioletred;
+    border: 1px solid black;
+}
+
+.fim {
+    display: flex;
+    flex-direction: column;
+}
+
+.fim h4 { 
+    font-size: 50px;
+}
+
+.fim button { 
+    font-size: 50px;
+    background-color: palevioletred;
+    align-items: center;
+    border: 2px solid black;
+    margin: 15px; 
+}
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+body { 
+    background-color: deeppink;
+}
+
+.voltar {
+    font-size: 50px;
+}
+ 
+.eu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+}
+
+.eu h1 {
+    font-size: 150px;
+    font-family: Nerko One;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.eu h2 {
+    font-size: 50px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.eu h3{ 
+    font-size: 40px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.eu p { 
+    font-size: 40px;
+    padding: 5px;
+}
+
+.eu h4 {
+    font-size: 40px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.eu h5 {
+    font-size: 40px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.eu img{
+    width: 300px;
+    border-radius: 10px;
+    border: 2px solid black;
+}

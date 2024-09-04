@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(249, 191, 249);
+}
+
+.voltar {
+    font-size: 50px;
+}
+
+.home { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+}
+
+.titulo h1 {
+    font-size: 150px;
+    font-family: Nerko One;
+}
+
+.sub h2 { 
+    font-size: 50px;
+    margin: 20px;
+    border: 1px solid palevioletred;
+    padding: 5px;
+}
+
+
+.home img {  
+    width: 350px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.otherpages {
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    gap: 70px;
+    font-size: 50px;
+    margin: 20px;
+}
